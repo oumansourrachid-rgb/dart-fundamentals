@@ -1,0 +1,14 @@
+# Build outputs
+build/
+.dart_tool/
+
+# IDE
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tempCodeRunnerFile.dart
