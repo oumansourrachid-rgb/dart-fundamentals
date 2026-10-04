@@ -17,6 +17,7 @@ Ce dépôt regroupe mes apprentissages et projets réalisés durant mon parcours
 
 ## Technologies
 - Dart
+- Git & GitHub
 
 ## Auteur
 [rachid oumansour] — apprenant en développement Dart/Flutter
