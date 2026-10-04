@@ -11,6 +11,7 @@ Ce dépôt regroupe mes apprentissages et projets réalisés durant mon parcours
 - **Gestion d'une Bibliothèque** — Mini-projet : gestion de livres et magazines
 - **heritage** — Héritage entre classes
 - **implements** — Interfaces
+- **JSON & API** — Manipulation de JSON et appels d'API
 - **Null Safety** — Gestion des valeurs nulles
 - **Optional** — Paramètres optionnels
 
